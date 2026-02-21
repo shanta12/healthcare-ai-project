@@ -1,0 +1,51 @@
+patient_id,condition_name,diagnosis_date,status
+P001,Hypertension,2025-03-02,Active
+P002,Thyroid Disorder,2021-02-21,Active
+P003,Asthma,2022-08-04,Active
+P004,Thyroid Disorder,2021-08-12,Active
+P005,Migraine,2021-08-06,Managed
+P006,Hypertension,2025-03-15,Active
+P007,Diabetes,2025-01-18,Managed
+P008,Diabetes,2021-06-15,Active
+P009,Asthma,2024-12-28,Managed
+P010,Diabetes,2024-03-04,Managed
+P011,Hypertension,2025-05-01,Managed
+P012,Thyroid Disorder,2023-12-07,Managed
+P013,Diabetes,2024-07-29,Managed
+P014,Asthma,2024-07-18,Managed
+P015,Thyroid Disorder,2024-07-16,Active
+P016,Asthma,2021-09-28,Active
+P017,Asthma,2025-12-26,Active
+P018,Migraine,2024-10-19,Managed
+P019,Migraine,2022-12-26,Managed
+P020,Diabetes,2022-03-12,Active
+P021,Migraine,2022-09-20,Active
+P022,Thyroid Disorder,2022-08-04,Active
+P023,Diabetes,2024-02-13,Active
+P024,Migraine,2024-08-07,Managed
+P025,Thyroid Disorder,2024-01-07,Active
+P026,Diabetes,2022-09-02,Managed
+P027,Hypertension,2022-11-10,Active
+P028,Migraine,2023-10-16,Active
+P029,Migraine,2025-09-23,Active
+P030,Thyroid Disorder,2022-06-11,Active
+P031,Thyroid Disorder,2025-01-24,Managed
+P032,Hypertension,2025-08-29,Active
+P033,Thyroid Disorder,2023-05-01,Active
+P034,Migraine,2024-11-26,Managed
+P035,Hypertension,2024-10-18,Active
+P036,Diabetes,2025-03-08,Active
+P037,Hypertension,2026-01-18,Active
+P038,Asthma,2025-02-05,Active
+P039,Asthma,2023-10-27,Managed
+P040,Migraine,2025-02-10,Active
+P041,Migraine,2022-12-20,Managed
+P042,Migraine,2023-08-18,Active
+P043,Diabetes,2022-03-14,Active
+P044,Thyroid Disorder,2025-05-01,Active
+P045,Migraine,2025-10-09,Managed
+P046,Diabetes,2023-09-11,Active
+P047,Asthma,2024-12-15,Managed
+P048,Diabetes,2025-07-09,Active
+P049,Migraine,2022-01-05,Active
+P050,Hypertension,2022-09-01,Active
